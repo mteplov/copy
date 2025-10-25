@@ -76,7 +76,7 @@
 ![3 задание](https://github.com/mteplov/naproxy/blob/main/img/3.png)
 
 Конфигурационный файл:  
-[HAProxy] https://github.com/mteplov/naproxy/blob/main/files/3_haproxy.cfg)
+[HAProxy](https://github.com/mteplov/naproxy/blob/main/files/3_haproxy.cfg)
 [Nginx](https://github.com/mteplov/naproxy/blob/main/files/3_default)
 ---
 
